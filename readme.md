@@ -1,7 +1,7 @@
 reSlim-movie
 =======
 [![Build](https://img.shields.io/badge/build-on-progress-brightred.svg)](https://github.com/aalfiann/reSlim-movie)
-[![Version](https://img.shields.io/badge/stable-1.2.0-brightgreen.svg)](https://github.com/aalfiann/reSlim-movie)
+[![Version](https://img.shields.io/badge/alpha-1.0.0-brightred.svg)](https://github.com/aalfiann/reSlim-movie)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aalfiann/reSlim-movie/blob/master/license.md)
 
 reSlim-movie is a Rest API backend for movie management which is based on reSlim.<br>
