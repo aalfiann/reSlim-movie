@@ -1,6 +1,6 @@
 reSlim-movie
 =======
-[![Coverage](https://img.shields.io/badge/build-onprogress-brightred.svg)](https://github.com/aalfiann/reSlim-movie)
+[![Coverage](https://img.shields.io/badge/Coverage-20%-brightred.svg)](https://github.com/aalfiann/reSlim-movie)
 [![Version](https://img.shields.io/badge/alpha-1.0.0-brightred.svg)](https://github.com/aalfiann/reSlim-movie)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aalfiann/reSlim-movie/blob/master/license.md)
 
