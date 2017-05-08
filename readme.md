@@ -1,3 +1,5 @@
+Sorry, This repository now is not active for a while. Will be active again arround 6 months later, because I have very under pressure deadline job.
+
 reSlim-movie
 =======
 [![Coverage](https://img.shields.io/badge/Coverage-20%25-yellowgreen.svg)](https://github.com/aalfiann/reSlim-movie)
